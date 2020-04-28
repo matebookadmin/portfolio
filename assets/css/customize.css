@@ -4,6 +4,6 @@
 
 @media screen and (max-width: 414px) {
     .animation {
-        margin-left: 1rem !;
+        margin-left: 1rem !important;
     }
 }
