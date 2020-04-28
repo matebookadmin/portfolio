@@ -1,3 +1,9 @@
 .animation {
-    margin-left: 30rem !important;
+    margin-left: 15rem !important;
+}
+
+@media screen and (max-width: 414px) {
+    .animation {
+        margin-left: 1rem !important;
+    }
 }
