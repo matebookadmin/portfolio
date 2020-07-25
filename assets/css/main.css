@@ -1733,14 +1733,3 @@ body.is-article-visible #footer {
 body.is-preload #footer {
     opacity: 0;
 }
-
-.header-animation {
-    width: 300px !important;
-    height: 300px !important;
-    margin-left: -50rem !important;
-}
-
-.animation{
-    margin-left: 10rem !important;
-}
-
